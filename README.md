@@ -1,2 +1,2 @@
 # Machine Learning-Repo
-This repository contains ML projects in Python, covering supervised and deep learning. Each project has organized code and datasets for exploration.
+"Your one-stop repository for machine learning magic from Google Colab 🧙‍♂️✨ | Dive into cutting-edge ML code and experiments 📊🔬"
